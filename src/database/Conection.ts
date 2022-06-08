@@ -1,4 +1,4 @@
-import { Sequelize, Options } from "sequelize/types";
+import { Sequelize, Options } from "sequelize";
 
 export default class Conection {
   private instance: Sequelize;
